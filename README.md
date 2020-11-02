@@ -1,5 +1,5 @@
 # wlan_ldpc
-Reference implementation of the WLAN LDPC codes.
+Reference implementation of an encoder/decoder for WLAN LDPC codes.
 
 * Written in C++ with example usage an QtCreator project file.
 * Encoding and decoding.
