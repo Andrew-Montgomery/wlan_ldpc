@@ -17,10 +17,12 @@ Simulated performance
 ![BPSK BER Performance](./bpsk.png)
 
 Measured Throughput
+
 | Block Size | Decoding - 8 iters - Message bits (Mb/s) |
-| 648 | 1.65 |
-| 1296 | 1.84 |
-| 1944 | 2 |
+|------------|------------------------------------------|
+| 648        | 1.65                                     |
+| 1296       | 1.84                                     |
+| 1944       | 2                                        |
 
 References
 * LDPC and Polar Codes in 5G Standard, NPTEL-NOC_IITM, https://www.youtube.com/playlist?list=PLyqSpQzTE6M81HJ26ZaNv0V3ROBrcv-Kc
